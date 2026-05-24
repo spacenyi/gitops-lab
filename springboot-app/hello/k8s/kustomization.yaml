@@ -9,4 +9,4 @@ resources:
 images:
 - name: spacenyi/hello-app
   newName: spacenyi/hello-app
-  newTag: d8d494b
+  newTag: c0d632e
